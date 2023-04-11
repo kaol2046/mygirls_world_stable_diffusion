@@ -1,0 +1,33 @@
+export default [
+
+    {"src": "images/sd/24ca283b-341a-4f44-837f-6e5a415eccc9.jpg", "name": "nana"},  
+    {"src": "images/sd/00450-123412342.jpg", "name": "Lily"},  
+    {"src": "images/sd/00445-123412341.jpg", "name": "Alice"},  
+    {"src": "images/sd/00408-123412342.jpg", "name": "Amy"},  
+    {"src": "images/sd/00396-123412342.jpg", "name": "Samantha"},  
+    {"src": "images/sd/00381-89424918241.jpg", "name": "Jennifer"},  
+    {"src": "images/sd/00377-89424918241.jpg", "name": "Annie"},  
+    {"src": "images/sd/00374-89424918242.jpg", "name": "Brooke"},  
+    {"src": "images/sd/00371-89424918241.jpg", "name": "Katie"},  
+    
+    {"src": "images/sd/00364-89424918242.jpg", "name": "Melissa"},  
+    {"src": "images/sd/00352-89424918242.jpg", "name": "Caroline"},  
+    {"src": "images/sd/00310-89424918242.jpg", "name": "Charlotte"},  
+    {"src": "images/sd/00311-89424918243.jpg", "name": "Claire"},  
+    {"src": "images/sd/00294-89424918244.jpg", "name": "Sarah"},  
+    {"src": "images/sd/00287-89424918243.jpg", "name": "Dolly"},  
+    {"src": "images/sd/00283-89424918241.jpg", "name": "Emma"},  
+    {"src": "images/sd/00227-7132412341.jpg", "name": "Elizabeth"},  
+    {"src": "images/sd/00196-7132412341.jpg", "name": "Natalie"},  
+    
+    {"src": "images/sd/00153-812349182346.jpg", "name": "Grace"},  
+    {"src": "images/sd/00140-2547147903.jpg", "name": "Olivia"},  
+    {"src": "images/sd/00117-349123841324.jpg", "name": "Hailey"},  
+    {"src": "images/sd/00053-89424918236.jpg", "name": "Eve"},  
+    {"src": "images/sd/00116-384123941.jpg", "name": "Evelyn"},  
+    {"src": "images/sd/00104-384123941.jpg", "name": "Jessica"},  
+    {"src": "images/sd/00075-89424918237.jpg", "name": "Julie"},  
+    {"src": "images/sd/00097-384123941.jpg", "name": "Carly"},  
+    {"src": "images/sd/00087-384123941.jpg", "name": "Peyton"},  
+    {"src": "images/sd/00047-89424918238.jpg", "name": "Megan"},  
+]
